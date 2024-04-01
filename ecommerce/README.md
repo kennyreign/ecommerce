@@ -1,24 +1,24 @@
 ## Instalasi
 
-1. Clone repositori ini ke komputer:
+1. Clone repository:
 
    ```bash
    git clone https://github.com/kennyreign/ecommerce.git
 
-2. Pindah ke direktori projek
+2. Move to the desired directory
 
    ```bash
-   cd ecommerce-catalog
+   cd ecommerce
 
 3. Install package module
 
    ```bash
    npm install
    
-4. Jalankan server
+4. Run the browser
 
    ```bash
     npm run dev
 
-5. Buka browser dan masuk ke `http://localhost:8080/`
+5. Run browser and go to: `http://localhost:8080/`
 
